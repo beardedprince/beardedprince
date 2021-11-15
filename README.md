@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my profile. I'm a Software Developer. I work mainly with JavaScript/TypeScript, Angular and Node.js.
+
+🔭 I’m currently working on personal projects.
+👯 I’m looking to collaborate on cool projects.
+📫 How to reach me: Email: alaketuolamilekan02@gmail.com
+
+
 <!--
 **beardedprince/beardedprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
