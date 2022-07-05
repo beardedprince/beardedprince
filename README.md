@@ -6,6 +6,8 @@ Angular, React and Node.js.
 - 👯 I’m looking to collaborate on cool projects.
 - 📫 How to reach me: Email: alaketuolamilekan02@gmail.com
 
+## 🛠 Skills
+HTML, CSS, Javascript, TypeScript, Angular, React
 
 <!--
 **beardedprince/beardedprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
